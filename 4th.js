@@ -9,8 +9,6 @@ for (let i = 0; i < str.length; i++) {
 }
 console.log(str);
 
-
-
 // second method
 str = str.replaceAll("x", "y").replaceAll("X", "Y");
-console.log(str)
+console.log(str);
