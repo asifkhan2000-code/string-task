@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-const str = prompt("Enter a paragraph: ");
+const str = prompt("Enter a sentence ");
 let count1 = 0;
 let count2 = 0;
 for (let i = 0; i < str.length; i++) {
